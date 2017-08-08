@@ -7,7 +7,7 @@ package ro.siit.java8;
  * number of sales
  * and quota for sale.
  */
-public class SalesRepresentatives {
+public class SalesRepresentative {
     String name;
     int sales;
     int quota;
